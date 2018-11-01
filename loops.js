@@ -17,7 +17,7 @@ return array
 function whileLoop(n) {
   while (n > 0) {console.log(--n)}
   return "done"}
-//Substituting n as
+//Substituting n as number
 
 function doWhileLoop(array) {
     function maybeTrue() {
